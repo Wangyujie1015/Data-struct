@@ -1,0 +1,6 @@
+﻿  list.c
+E:\VS\20210606.1\list.c(51,22): warning C4133: “=”: 从“LDataType *”到“listNode *”的类型不兼容
+E:\VS\20210606.1\list.c(53,35): warning C4133: “=”: 从“listNode *”到“LDataType *”的类型不兼容
+E:\VS\20210606.1\list.c(67,21): warning C4133: “=”: 从“LDataType *”到“listNode *”的类型不兼容
+E:\VS\20210606.1\list.c(87,26): warning C4133: “=”: 从“listNode *”到“LDataType *”的类型不兼容
+  20210606.1.vcxproj -> E:\VS\20210606.1\Debug\20210606.1.exe
